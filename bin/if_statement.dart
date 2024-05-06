@@ -5,11 +5,5 @@ void main(List<String> args) {
 
   int number = int.tryParse(input) ?? 0;
 
-  if (number > 0) {
-    print("positive");
-  } else if (number < 0) {
-    print("negative");
-  } else {
-    print("not zero");
-  }
+  print(number >= 0 ? number : number *= -1);
 }
