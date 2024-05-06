@@ -7,5 +7,7 @@ void main(List<String> args) {
 
   if (number == 0) {
     print("zero");
+  } else {
+    print("not zero");
   }
 }
