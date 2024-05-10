@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Hello Guys ini repository saya untuk menyimpan history selama saya sedang belajar bahasa pemrograman Dart. Semoga saya bisa konsisten terus untuk belajar setiap harinya. Thank you.
